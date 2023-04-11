@@ -1,0 +1,1 @@
+El enrrutador por defecto va a llamar al controlador  home y a la accion index (cada vez qaue refresca muestra el Index sin nada) nosotros queremos que en esta pagina se vea el top 10 de peliculas
